@@ -1,0 +1,1 @@
+Overall, gender and race show no meaningful differences in hospital stay duration among diabetic patients. In contrast, age displays a clear pattern, with older patients experiencing longer and more variable stays. These findings suggest that age—not gender or race—is the primary demographic factor influencing hospitalization length in this population.
